@@ -1,0 +1,29 @@
+.timerButton {
+  width: 80px;
+  height: 30px;
+  border: 3px solid black;
+  border-radius: 10px;
+  background-color: bisque;
+  cursor: pointer;
+  font-family: "Courier New", Courier, monospace;
+  color: brown;
+  margin-top: 5px;
+}
+.timerButton:hover {
+  background-color: burlywood;
+  border: 3px solid rgb(224, 179, 111);
+}
+#timeDisplay {
+  font-size: 80px;
+  color: rgb(119, 75, 5);
+}
+#timeContainer {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  background-color: bisque;
+  height: 150px;
+  border: 3px solid black;
+  width: 500px;
+}
